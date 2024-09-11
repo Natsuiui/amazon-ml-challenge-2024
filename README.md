@@ -1,2 +1,2 @@
-# amazon-ml-challenge-2024
-for amazon ml challenge 2024!
+# mlOPS
+### Amazon ML Challenge 2024.
